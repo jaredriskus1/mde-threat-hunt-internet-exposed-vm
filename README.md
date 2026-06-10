@@ -4,8 +4,8 @@
 
 # Threat Hunt: Internet-Exposed Windows Endpoint
 
-![Threat Hunt Summary](images/threat_hunt_summary.png)
-<p align="center">
+![Threat Hunt Summary](images/Threat_Hunt_Summary.png)
+<p align="center"> 
   <img src="images/Threat_Hunt_Summary.png" width="1000">
 </p>
 
