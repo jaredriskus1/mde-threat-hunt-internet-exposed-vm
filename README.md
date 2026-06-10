@@ -4,7 +4,7 @@
 
 # Threat Hunt: Internet-Exposed Windows Endpoint
 
-![Threat Hunt Summary](images/Threat_Hunt_Summary.png)
+![Threat Hunt Summary](https://github.com/jaredriskus1/mde-threat-hunt-internet-exposed-vm/blob/main/Threat_Hunt_Summary.png)
 
 ## Overview
 
