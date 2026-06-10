@@ -2,6 +2,10 @@
 
 # Threat Hunt: Internet-Exposed Windows Endpoint Subjected to Brute Force Activity
 
+<p align="center">
+  <img src="images/threat_hunt_summary.png" width="1000">
+</p>
+
 ## Overview
 
 This project documents a threat hunting investigation performed against a Windows 11 virtual machine that was inadvertently exposed to the public internet. The objective was to determine whether external attackers successfully gained access through brute-force authentication attempts.
