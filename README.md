@@ -2,6 +2,9 @@
 
 # Threat Hunt: Internet-Exposed Windows Endpoint Subjected to Brute Force Activity
 
+# Threat Hunt: Internet-Exposed Windows Endpoint
+
+![Threat Hunt Summary](images/threat_hunt_summary.png)
 <p align="center">
   <img src="images/threat_hunt_summary.png" width="1000">
 </p>
